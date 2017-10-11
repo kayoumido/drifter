@@ -9,6 +9,7 @@ For migration information, you can always have a look at https://liip-drifter.re
 ## Unreleased
 
 ### Added
+- Nginx role: added Symfony4 template
 - Apache role: add support for the `web_directory` parameter
 - Solr role: allow to setup a Solr index/core during the provisioning
 
